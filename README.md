@@ -72,4 +72,4 @@ I am enthusiastic about **bridging technology and business** to create impactful
 
 <p align="center">
 <span style="color:#0ff; font-size:18px; text-shadow: 0 0 10px #0ff;">✨ Thank you for visiting my GitHub Portfolio! ✨</span>
-</p>
+
